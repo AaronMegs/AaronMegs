@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 我的微信公众号 ![AaronMegs](https://ftp.bmp.ovh/imgs/2021/04/841ae3ba4cbaafea.jpg)
+- 📫 我的微信公众号 [AaronMegs](https://ftp.bmp.ovh/imgs/2021/04/841ae3ba4cbaafea.jpg)
 
 ![AaronMegs's github stats](https://github-readme-stats.vercel.app/api?username=AaronMegs)
 
